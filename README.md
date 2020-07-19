@@ -11,4 +11,4 @@ Java Code:- https://github.com/Hardik121020/Java-Code/blob/master/First.java
 
 ### *Day 2:* July 19, 2020
 *Today's Progress:* Today, Learned about string in Python.
-Python Code : 
+Python Code : https://github.com/Hardik121020/Pyhton-Code/blob/master/String.py
