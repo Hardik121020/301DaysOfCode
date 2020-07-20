@@ -12,3 +12,8 @@ Java Code:- https://github.com/Hardik121020/Java-Code/blob/master/First.java
 ### *Day 2:* July 19, 2020
 *Today's Progress:* Today, Learned about string in Python.
 Python Code : https://github.com/Hardik121020/Pyhton-Code/blob/master/String.py
+
+
+### *Day 3:* July 20, 2020
+*Taday's Progress:* Learned about data analysis to python.
+Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Covid-19%20code%20images/Images.md
