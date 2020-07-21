@@ -17,3 +17,7 @@ Python Code : https://github.com/Hardik121020/Pyhton-Code/blob/master/String.py
 ### *Day 3:* July 20, 2020
 *Today's Progress:* Learned about data analysis to python.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Covid-19%20code%20images/Images.md
+
+### *Day 4:* July 21, 2020
+*Today's Progress:* Learned how to acces web data using python.
+Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Covid-19%20code%20images/Images.md
