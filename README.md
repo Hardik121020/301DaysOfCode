@@ -21,3 +21,7 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Covid-19%20co
 ### *Day 4:* July 21, 2020
 *Today's Progress:* Learned how to acces web data using Python.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Socket.py
+
+### *Day 5:* July 22,2020
+*Today's Progress:* DO some java programming.
+Code Link: https://github.com/Hardik121020/Java-Code/tree/master/Java%20Bank%20Pics
