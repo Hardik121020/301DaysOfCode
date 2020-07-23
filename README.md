@@ -23,5 +23,9 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Covid-19%20co
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Socket.py
 
 ### *Day 5:* July 22,2020
-*Today's Progress:* Do some java programming.
+*Today's Progress:* Make a text based java application for Bank.
 Code Link: https://github.com/Hardik121020/Java-Code/tree/master/Java%20Bank%20Pics
+
+### *Day 6: July 23, 2020
+*Today's Progress:* Make a pyhton program to decode a matrix script using if ststements.
+Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Matrix_Script.py
