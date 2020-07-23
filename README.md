@@ -26,6 +26,6 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Socket.py
 *Today's Progress:* Learned to make a text based application for Bank using java.
 Code Link: https://github.com/Hardik121020/Java-Code/tree/master/Java%20Bank%20Pics
 
-### *Day 6: July 23, 2020
+### *Day 6:* July 23, 2020
 *Today's Progress:* Learned to decode a matrix script using pyhton.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Matrix_Script.py
