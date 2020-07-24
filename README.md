@@ -29,3 +29,7 @@ Code Link: https://github.com/Hardik121020/Java-Code/tree/master/Java%20Bank%20P
 ### *Day 6:* July 23, 2020
 *Today's Progress:* Learned to decode a matrix script using pyhton.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Matrix_Script.py
+
+### *Day 7:* July 24, 2020
+*Today's Progress:* Learned about creating and importing packages in java.
+Code Link: https://github.com/Hardik121020/Java-Code/blob/master/packages.java
