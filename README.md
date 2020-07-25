@@ -33,3 +33,7 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Matrix_Script
 ### *Day 7:* July 24, 2020
 *Today's Progress:* Learned about creating and importing packages in java.
 Code Link: https://github.com/Hardik121020/Java-Code/blob/master/packages.java
+
+### *Day 8:* July 25, 2020
+*Today's Progress:* Learned how to implement polar coordinates in python.
+Code Link: 
