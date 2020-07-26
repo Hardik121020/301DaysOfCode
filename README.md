@@ -38,3 +38,8 @@ Code Link: https://github.com/Hardik121020/Java-Code/blob/master/packages.java
 *Today's Progress:* Learned how to implement polar coordinates in python.
 Code Link: 
 https://github.com/Hardik121020/Pyhton-Code/blob/master/Polar_Coordinates.py
+
+
+### *Day 8:* July 26, 2020
+*Today's Progress:* Learned about different type of HTML tags.
+Code Link: https://github.com/Hardik121020/HTML-Related-content/blob/master/First.html
