@@ -40,6 +40,6 @@ Code Link:
 https://github.com/Hardik121020/Pyhton-Code/blob/master/Polar_Coordinates.py
 
 
-### *Day 8:* July 26, 2020
+### *Day 9:* July 26, 2020
 *Today's Progress:* Learned about different type of HTML tags.
 Code Link: https://github.com/Hardik121020/HTML-Related-content/blob/master/First.html
