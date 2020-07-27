@@ -45,5 +45,5 @@ https://github.com/Hardik121020/Pyhton-Code/blob/master/Polar_Coordinates.py
 Code Link: https://github.com/Hardik121020/HTML-Related-content/blob/master/First.html
 
 ### *Day 10:* July 27, 2020
-*Today's Progress:* Completed Maximize it challange on Hacker Rank.
+*Today's Progress:* Completed Maximize it challange on Hacker Rank using Python.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Mazimize_it.py
