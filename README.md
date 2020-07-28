@@ -49,4 +49,5 @@ Code Link: https://github.com/Hardik121020/HTML-Related-content/blob/master/Firs
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Mazimize_it.py
 
 ### *Day 11:* July 28, 2020
-*Today's Progress:* Learn about CSS and deploy a web page
+*Today's Progress:* Learn about CSS and successfully deploy a working webpage on the web.
+Web-site Link: https://hardik121020.github.io/HTML/Project1/Project_01.html
