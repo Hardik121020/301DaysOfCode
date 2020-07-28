@@ -47,3 +47,6 @@ Code Link: https://github.com/Hardik121020/HTML-Related-content/blob/master/Firs
 ### *Day 10:* July 27, 2020
 *Today's Progress:* Completed Maximize it challange on Hacker Rank using Python.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Mazimize_it.py
+
+### *Day 11:* July 28, 2020
+*Today's Progress:* Learn about CSS and deploy a web page
