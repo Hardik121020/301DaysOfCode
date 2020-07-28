@@ -50,4 +50,4 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Mazimize_it.p
 
 ### *Day 11:* July 28, 2020
 *Today's Progress:* Learn about CSS and successfully deploy a working webpage on the web.
-Web-site Link: https://hardik121020.github.io/HTML/Project1/Project_01.html
+Web-page Link: https://hardik121020.github.io/HTML/Project1/Project_01.html
