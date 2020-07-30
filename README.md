@@ -52,7 +52,7 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Mazimize_it.p
 *Today's Progress:* Learn about CSS and successfully deploy a working webpage on the web.
 Web-page Link: https://hardik121020.github.io/HTML/Project1/Project_01.html
 
-### *Day 12:* July 29, 2020
+### *Day 13:* July 30, 2020
 *Today's Progress:* Learn about CSS and Completed week 1 of introduction to CSS3 (Coursera).
 Project Link: https://github.com/Hardik121020/HTML/tree/master/Project2
 
