@@ -63,3 +63,7 @@ Code Link : https://github.com/Hardik121020/Pyhton-Code/blob/master/URL.py
 ### *Day 14:* July 31, 2020
 *Today's Progress:* Learn about Link styling, List styling and Advanced Selector in CSS.
 Link : https://github.com/Hardik121020/HTML/blob/master/Link%20Styling%2CList%20Styling%2CAdvanced%20selectors.md
+
+### *Day 15:* August 1, 2020
+*Today's Progress:* Learned about box models in CSS.
+Code Link:- https://github.com/Hardik121020/HTML/tree/master/Box-Models%20using%20CSS
