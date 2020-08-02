@@ -67,3 +67,8 @@ Link : https://github.com/Hardik121020/HTML/blob/master/Link%20Styling%2CList%20
 ### *Day 15:* August 1, 2020
 *Today's Progress:* Learned about box models in CSS.
 Code Link:- https://github.com/Hardik121020/HTML/tree/master/Box-Models%20using%20CSS
+
+### *Day 16:* August 2, 2020
+*Today's Progress:* Learned about itertools lib. in Python.
+Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/itertools.py
+
