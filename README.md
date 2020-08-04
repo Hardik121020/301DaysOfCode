@@ -76,6 +76,6 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/itertools.py
 *Today's Progress:* Learned about wrapper classes in java.
 Code Link: https://github.com/Hardik121020/Java-Code/blob/master/wrapper.java
 
-### *Day 17:* August 3, 2020
+### *Day 18:* August 4, 2020
 *Today's Progress:* Learned about advanced selectors in CSS3 and apply it on html files.
 Web-page Link:- https://hardik121020.github.io/HTML/Project3/index.html
