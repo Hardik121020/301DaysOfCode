@@ -89,5 +89,5 @@ Web-page Link(Edited) : https://hardik121020.github.io/HTML/Project3/index.html
 Code Link : https://github.com/Hardik121020/Pyhton-Code/blob/master/Project1/game1.py
 
 ### *Day 21:* August 7, 2020
-*Today's Progress:* Practice transition and transform proerty in CSS3.
+*Today's Progress:* Practice transition and transform property in CSS3.
 Code Link : https://github.com/Hardik121020/HTML/tree/master/Transition%20Property(CSS)
