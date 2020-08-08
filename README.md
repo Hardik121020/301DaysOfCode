@@ -91,3 +91,7 @@ Code Link : https://github.com/Hardik121020/Pyhton-Code/blob/master/Project1/gam
 ### *Day 21:* August 7, 2020
 *Today's Progress:* Practice transition and transform property in CSS3.
 Code Link : https://github.com/Hardik121020/HTML/tree/master/Transition%20Property(CSS)
+
+### *Day 22:* August 8, 2020
+*Today's Progress:* Learned about Iterables and Iterators in Python.
+Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/iterators.py
