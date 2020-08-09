@@ -95,3 +95,7 @@ Code Link : https://github.com/Hardik121020/HTML/tree/master/Transition%20Proper
 ### *Day 22:* August 8, 2020
 *Today's Progress:* Learned about Iterables and Iterators in Python.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/iterators.py
+
+### *Day 23:* August 9, 2020
+*Today's Progress:* Learned about table styling in CSS3.
+Code Link : https://github.com/Hardik121020/HTML/tree/master/Project4
