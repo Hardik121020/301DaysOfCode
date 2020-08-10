@@ -99,3 +99,7 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/iterators.py
 ### *Day 23:* August 9, 2020
 *Today's Progress:* Learned about table styling in CSS3.
 Code Link : https://github.com/Hardik121020/HTML/tree/master/Project4
+
+### *Day 24:* August 10, 2020
+*Today's Progress:* Learned about navigation menus in CSS3.
+code Link: https://github.com/Hardik121020/HTML/tree/master/Navigation%20Menus
