@@ -103,3 +103,7 @@ Code Link : https://github.com/Hardik121020/HTML/tree/master/Project4
 ### *Day 24:* August 10, 2020
 *Today's Progress:* Learned about navigation menus in CSS3.
 code Link: https://github.com/Hardik121020/HTML/tree/master/Navigation%20Menus
+
+### *Day 25:* August 11, 2020
+*Today's Progress:* Learned about substitution cipher and implement it using C programming.
+Code Link : https://github.com/Hardik121020/C-Programming/blob/master/substitution.c
