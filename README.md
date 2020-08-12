@@ -108,6 +108,6 @@ code Link: https://github.com/Hardik121020/HTML/tree/master/Navigation%20Menus
 *Today's Progress:* Learned about substitution cipher and implement it using C programming.
 Code Link : https://github.com/Hardik121020/C-Programming/blob/master/substitution.c
 
-### *Day 25:* August 11, 2020
+### *Day 26:* August 12, 2020
 *Today's Progress:* Learned about Vignere cipher and implement it using C programming.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/VignereCipher.c
