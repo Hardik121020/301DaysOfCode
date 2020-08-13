@@ -112,6 +112,6 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/substituti
 *Today's Progress:* Learned about Vignere cipher and implement it using C programming.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/VignereCipher.c
 
-### *Day 26:* August 12, 2020
+### *Day 27:* August 13, 2020
 *Today's Progress:* Learned about Playfair cipher and implement it using C programming.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Playfair.c
