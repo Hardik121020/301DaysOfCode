@@ -117,4 +117,4 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/VignereCiph
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Playfair.c
 
 ### *Day 28:* August 14, 2020
-*Today's Progress:* Studies about sets in Python.
+*Today's Progress:* Studied about sets in Python.
