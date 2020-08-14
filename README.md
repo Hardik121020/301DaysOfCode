@@ -115,3 +115,6 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/VignereCiph
 ### *Day 27:* August 13, 2020
 *Today's Progress:* Learned about Playfair cipher and implement it using C programming.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Playfair.c
+
+### *Day 28:* August 14, 2020
+*Today's Progress:* Studies about sets in Python.
