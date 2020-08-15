@@ -118,3 +118,7 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Playfair.c
 
 ### *Day 28:* August 14, 2020
 *Today's Progress:* Studied about sets in Python.
+
+### *Day 29:* August 15, 2020
+*Today's Progress:* Praticed threads in java.
+Code Link : https://github.com/Hardik121020/Java-Code/blob/master/thread.java
