@@ -124,5 +124,5 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Playfair.c
 Code Link : https://github.com/Hardik121020/Java-Code/blob/master/thread.java
 
 ### *Day 30:* August 16, 2020
-*Today's Progress:* Praticed some basic concepts in java.
+*Today's Progress:* Practiced some basic concepts in java.
 Code Link : https://github.com/Hardik121020/Java-Code/blob/master/currency.java
