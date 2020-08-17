@@ -126,3 +126,7 @@ Code Link : https://github.com/Hardik121020/Java-Code/blob/master/thread.java
 ### *Day 30:* August 16, 2020
 *Today's Progress:* Practiced some basic concepts in java.
 Code Link : https://github.com/Hardik121020/Java-Code/blob/master/currency.java
+
+### *Day 31:* August 17, 2020
+*Today's Progress:* Learned more about Navigation Links.
+Web Link : https://hardik121020.github.io/HTML/Navigation%20Menus/menus2.html
