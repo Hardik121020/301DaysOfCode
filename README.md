@@ -130,3 +130,7 @@ Code Link : https://github.com/Hardik121020/Java-Code/blob/master/currency.java
 ### *Day 31:* August 17, 2020
 *Today's Progress:* Learned more about Navigation Links.
 Web Link : https://hardik121020.github.io/HTML/Navigation%20Menus/menus2.html
+
+### *Day 32:* August 18, 2020
+*Today's Progress:* Learn and Implement Deffi Hellman Algo in C.
+Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Deffi_Hellman.c
