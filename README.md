@@ -134,3 +134,7 @@ Web Link : https://hardik121020.github.io/HTML/Navigation%20Menus/menus2.html
 ### *Day 32:* August 18, 2020
 *Today's Progress:* Learn and Implement Deffi Hellman Algo in C.
 Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Deffi_Hellman.c
+
+### *Day 33:* August 19, 2020
+*Today's Progress:* Learn and practice some new property in CSS3.
+Code Link : https://github.com/Hardik121020/HTML/blob/master/Project5/CSS/hw2.css
