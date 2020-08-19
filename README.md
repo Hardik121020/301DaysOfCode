@@ -137,4 +137,4 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Deffi_Hell
 
 ### *Day 33:* August 19, 2020
 *Today's Progress:* Learn and practice some new property in CSS3.
-Code Link : https://github.com/Hardik121020/HTML/blob/master/Project5/CSS/hw2.css
+Code Link : https://github.com/Hardik121020/HTML/blob/master/Project5/CSS/style.css
