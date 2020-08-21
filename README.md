@@ -145,4 +145,4 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20
 
 
 ### *Day 35:* August 21, 2020
-*Today's Progress:* Learned Feistel cipher algorithm.
+*Today's Progress:* Learn about Feistel cipher.
