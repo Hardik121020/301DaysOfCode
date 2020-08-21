@@ -144,5 +144,5 @@ Code Link : https://github.com/Hardik121020/HTML/blob/master/Project5/CSS/style.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/shapes.c
 
 
-### *Day 35:* August 2q, 2020
+### *Day 35:* August 21, 2020
 *Today's Progress:* Learned Feistel cipher algorithm.
