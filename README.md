@@ -149,4 +149,4 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20
 
 ### *Day 36:* August 22, 2020
 *Today's Progress:* Revised some old concept in Python.
-Code Limk:https://github.com/Hardik121020/Pyhton-Code/blob/master/list.py
+Code Link:https://github.com/Hardik121020/Pyhton-Code/blob/master/list.py
