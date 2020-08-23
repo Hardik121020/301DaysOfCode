@@ -143,10 +143,13 @@ Code Link : https://github.com/Hardik121020/HTML/blob/master/Project5/CSS/style.
 *Today's Progress:* Learned about opengl lib and Implement a program in C.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/shapes.c
 
-
 ### *Day 35:* August 21, 2020
 *Today's Progress:* Learn about Feistel cipher.
 
 ### *Day 36:* August 22, 2020
 *Today's Progress:* Revised some old concept in Python.
 Code Link:https://github.com/Hardik121020/Pyhton-Code/blob/master/list.py
+
+### *Day 37:* August 23, 2020
+*Today's Progress:* Reviced some concepts in C.
+Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Quicksort.c
