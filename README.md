@@ -153,3 +153,7 @@ Code Link:https://github.com/Hardik121020/Pyhton-Code/blob/master/list.py
 ### *Day 37:* August 23, 2020
 *Today's Progress:* Reviced some concepts in C.
 Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Quicksort.c
+
+### *Day 38:* August 24, 2020
+*Today's Progress:* Learned about Java Database Connectivity in Java.
+Code Link : https://github.com/Hardik121020/Java-Code/blob/master/bank.java
