@@ -157,3 +157,7 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Quicksort.
 ### *Day 38:* August 24, 2020
 *Today's Progress:* Learned about Java Database Connectivity in Java.
 Code Link : https://github.com/Hardik121020/Java-Code/blob/master/bank.java
+
+### *Day 39:* August 25, 2020
+*Today's Progress:* Learned and implemet Extended Euclidean algorithm in C.
+Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Extended_Euclid.c
