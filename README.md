@@ -161,3 +161,7 @@ Code Link : https://github.com/Hardik121020/Java-Code/blob/master/bank.java
 ### *Day 39:* August 25, 2020
 *Today's Progress:* Learned and implemet Extended Euclidean algorithm in C.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Extended_Euclid.c
+
+### *Day 40:* August 26, 2020
+*Today's Progress:* Reviced some old concepts in C.
+Code Link : https://github.com/Hardik121020/C-Programming/blob/master/chinese_remainder%20_theorem.c
