@@ -165,3 +165,6 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Extended_Eu
 ### *Day 40:* August 26, 2020
 *Today's Progress:* Reviced some old concepts in C.
 Code Link : https://github.com/Hardik121020/C-Programming/blob/master/chinese_remainder%20_theorem.c
+
+### *Day 41:* August 27, 2020
+*Today's Progress:* Studies about the memory management and intern in Python.
