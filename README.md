@@ -168,3 +168,7 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/chinese_re
 
 ### *Day 41:* August 27, 2020
 *Today's Progress:* Studies about the memory management and intern in Python.
+
+### *Day 42:* August 28, 2020
+*Today's Progress:* Learn and implement merge sort in c.
+Code Link :- https://github.com/Hardik121020/C-Programming/blob/master/Merge%20Sort.c
