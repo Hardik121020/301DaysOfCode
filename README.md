@@ -172,3 +172,7 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/chinese_re
 ### *Day 42:* August 28, 2020
 *Today's Progress:* Learn and implement merge sort in c.
 Code Link :- https://github.com/Hardik121020/C-Programming/blob/master/Merge%20Sort.c
+
+### *Day 43:* August 29, 2020
+*Today's Progress:* Creating a senery using premetive shapes using opengl.
+Code Link:- https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/senery.c
