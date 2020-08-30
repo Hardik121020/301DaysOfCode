@@ -176,3 +176,6 @@ Code Link :- https://github.com/Hardik121020/C-Programming/blob/master/Merge%20S
 ### *Day 43:* August 29, 2020
 *Today's Progress:* Creating a senery using premetive shapes using opengl.
 Code Link:- https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/senery.c
+
+### *Day 44:* August 30, 2020
+*Today's Progress:* Learning about DDA line algo in Opengl.
