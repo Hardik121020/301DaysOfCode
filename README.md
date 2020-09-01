@@ -184,6 +184,6 @@ Code Link:- https://github.com/Hardik121020/C-Programming/blob/master/Computer%2
 *Today's Progress:* Learn and create a line using the equation y=m*x+c in openGl.
 Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/line.c
 
-### *Day 45:* August 31, 2020
+### *Day 46:* September 1, 2020
 *Today's Progress:* Implementation of DDA line algo in computer graphics.
 Code Link:- https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/DDAline.c
