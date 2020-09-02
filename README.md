@@ -187,3 +187,6 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%2
 ### *Day 46:* September 1, 2020
 *Today's Progress:* Implementation of DDA line algo in computer graphics.
 Code Link:- https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/DDAline.c
+
+### *Day 47:* September 2, 2020
+*Today's Progress:* Learning javascript from scrach.
