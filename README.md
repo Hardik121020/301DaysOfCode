@@ -190,3 +190,7 @@ Code Link:- https://github.com/Hardik121020/C-Programming/blob/master/Computer%2
 
 ### *Day 47:* September 2, 2020
 *Today's Progress:* Learning javascript from scrach.
+
+### *Day 48:* September 3, 2020
+*Today's Progress:* Learn and implement about Straness Matrix Multiplication.
+Code Link :- https://github.com/Hardik121020/C-Programming/blob/master/Straness%20Matix%20Multiplication.c
