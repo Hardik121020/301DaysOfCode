@@ -201,3 +201,6 @@ Code Link :- https://github.com/Hardik121020/C-Programming/blob/master/Straness%
 ### *Day 50:* September 5, 2020
 *Today's Progress:* Complete compress the string on hacker rank in Python.
 Code Link:- https://github.com/Hardik121020/Pyhton-Code/blob/master/compress.py
+
+### *Day 51:* September 6, 2020
+*Today's Progress:* Learn about XOR Encryption.
