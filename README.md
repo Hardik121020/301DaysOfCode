@@ -204,3 +204,7 @@ Code Link:- https://github.com/Hardik121020/Pyhton-Code/blob/master/compress.py
 
 ### *Day 51:* September 6, 2020
 *Today's Progress:* Learn about XOR Encryption.
+
+### *Day 52:* September 7, 2020
+*Today's Progress:* Implement Bresenham line algorithm in OpenGl.
+Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/Bresenham.c
