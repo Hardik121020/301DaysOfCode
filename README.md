@@ -208,3 +208,7 @@ Code Link:- https://github.com/Hardik121020/Pyhton-Code/blob/master/compress.py
 ### *Day 52:* September 7, 2020
 *Today's Progress:* Implement Bresenham line algorithm in OpenGl.
 Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/Bresenham.c
+
+### *Day 53:* September 8, 2020
+*Today's Progress:* Learn and implemet some basic functions of java script.
+Code Link : https://github.com/Hardik121020/HTML/blob/master/JavaScript/basic.html
