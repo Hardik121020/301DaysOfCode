@@ -212,3 +212,6 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%2
 ### *Day 53:* September 8, 2020
 *Today's Progress:* Learn and implemet some basic functions of java script.
 Code Link : https://github.com/Hardik121020/HTML/blob/master/JavaScript/basic.html
+
+### *Day 54:* September 9, 2020
+*Today's Progress:* Learning about the working of some functions in a JavaScript.
