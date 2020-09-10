@@ -215,3 +215,6 @@ Code Link : https://github.com/Hardik121020/HTML/blob/master/JavaScript/basic.ht
 
 ### *Day 54:* September 9, 2020
 *Today's Progress:* Learning about the working of some functions in a JavaScript.
+
+### *Day 55:* September 10, 2020
+*Today's Progress:* Learn about working of Xor cipher.
