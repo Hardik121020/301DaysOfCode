@@ -218,3 +218,7 @@ Code Link : https://github.com/Hardik121020/HTML/blob/master/JavaScript/basic.ht
 
 ### *Day 55:* September 10, 2020
 *Today's Progress:* Learn about the working of AES algorithm.
+
+### *Day 56:* September 11, 2020
+*Today's Progress:* Learn and implement some functions in JavaScripts.
+Code Link: https://github.com/Hardik121020/HTML/tree/master/Project%206
