@@ -222,3 +222,7 @@ Code Link : https://github.com/Hardik121020/HTML/blob/master/JavaScript/basic.ht
 ### *Day 56:* September 11, 2020
 *Today's Progress:* Learn and implement some functions in JavaScripts.
 Code Link: https://github.com/Hardik121020/HTML/tree/master/Project%206
+
+### *Day 57:* September 12, 2020
+*Today's Progress:* Learn about innerHTML and buttons in JavaScripts.
+Code Link: https://github.com/Hardik121020/HTML/tree/master/JavaScript
