@@ -227,6 +227,6 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/Project%206
 *Today's Progress:* Learn about innerHTML and buttons in JavaScripts.
 Code Link: https://github.com/Hardik121020/HTML/tree/master/JavaScript
 
-### *Day 57:* September 12, 2020
+### *Day 58:* September 13, 2020
 *Today's Progress:* Learn and implement Bresenham Circle Drawing Algorithm.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/BresCircle.c
