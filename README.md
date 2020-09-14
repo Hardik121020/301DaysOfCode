@@ -230,3 +230,7 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/JavaScript
 ### *Day 58:* September 13, 2020
 *Today's Progress:* Learn and implement Bresenham Circle Drawing Algorithm.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/BresCircle.c
+
+### *Day 59:* September 14, 2020
+*Today's Progress:* Learn and draw a Circle using polar equations inOpenGL.
+Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/circle(Polar%20Equations).c
