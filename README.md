@@ -234,3 +234,6 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20
 ### *Day 59:* September 14, 2020
 *Today's Progress:* Learn and draw a Circle using polar equations inOpenGL.
 Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/circle(Polar%20Equations).c
+
+### *Day 60:* September 15, 2020
+*Today's Progress:* Learn about mouse and keyboard events in JavaScript.
