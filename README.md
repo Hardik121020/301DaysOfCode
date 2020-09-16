@@ -238,5 +238,5 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%2
 ### *Day 60:* September 15, 2020
 *Today's Progress:* Learn about mouse and keyboard events in JavaScript.
 
-### *Day 60:* September 15, 2020
+### *Day 61:* September 16, 2020
 *Today's Progress:* Studing Bresenham ellipse drawing algorithm.
