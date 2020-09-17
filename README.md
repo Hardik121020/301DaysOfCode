@@ -240,3 +240,7 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%2
 
 ### *Day 61:* September 16, 2020
 *Today's Progress:* Studing Bresenham ellipse drawing algorithm.
+
+### *Day 62:* September 17, 2020
+*Today's Progress:* Practice some new functions in JavaScript.
+Code Link :- https://github.com/Hardik121020/HTML/tree/master/Project%207
