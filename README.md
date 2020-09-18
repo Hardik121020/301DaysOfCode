@@ -244,3 +244,7 @@ Code Link : https://github.com/Hardik121020/C-Programming/blob/master/Computer%2
 ### *Day 62:* September 17, 2020
 *Today's Progress:* Practice some new functions in JavaScript.
 Code Link :- https://github.com/Hardik121020/HTML/tree/master/Project%207
+
+### *Day 63:* September 18, 2020
+*Today's Progress:* Solved the minion game problem on hackerrank.
+code link: https://github.com/Hardik121020/Pyhton-Code/blob/master/minion_game.py
