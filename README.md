@@ -248,3 +248,7 @@ Code Link :- https://github.com/Hardik121020/HTML/tree/master/Project%207
 ### *Day 63:* September 18, 2020
 *Today's Progress:* Solved the minion game problem on hackerrank.
 code link: https://github.com/Hardik121020/Pyhton-Code/blob/master/minion_game.py
+
+### *Day 64:* September 19, 2020
+*Today's Progress:* Solved 2D array problem on hacker rank. 
+Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/hourglass.py
