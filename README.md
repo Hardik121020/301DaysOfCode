@@ -255,3 +255,6 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/hourglass.py
 
 ### *Day 65:* September 20, 2020
 *Today's Progress:* Studing about some new functions in JS.
+
+### *Day 66:* September 21, 2020
+*Today's Progress:* Pracised some new concepts in Python.
