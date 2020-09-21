@@ -252,3 +252,6 @@ code link: https://github.com/Hardik121020/Pyhton-Code/blob/master/minion_game.p
 ### *Day 64:* September 19, 2020
 *Today's Progress:* Solved 2D array problem on hacker rank. 
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/hourglass.py
+
+### *Day 65:* September 20, 2020
+*Today's Progress:* Studing about some new functions in JS.
