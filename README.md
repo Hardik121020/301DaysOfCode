@@ -258,3 +258,7 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/hourglass.py
 
 ### *Day 66:* September 21, 2020
 *Today's Progress:* Pracised some new concepts in Python.
+
+### *Day 67:* September 22, 2020
+*Today's Progress:* Practice some python code. 
+Code Link:https://github.com/Hardik121020/Pyhton-Code/tree/master
