@@ -261,5 +261,8 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/hourglass.py
 
 ### *Day 67:* September 22, 2020
 *Today's Progress:* Study and implement a python code. 
-
 Code Link : https://github.com/Hardik121020/Pyhton-Code/tree/master
+
+### *Day 68:* September 23, 2020
+*Today's Progress:* Learn some new functions in java.
+Code Link: https://github.com/Hardik121020/Java-Code/blob/master/split.java
