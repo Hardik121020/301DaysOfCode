@@ -266,3 +266,7 @@ Code Link : https://github.com/Hardik121020/Pyhton-Code/tree/master
 ### *Day 68:* September 23, 2020
 *Today's Progress:* Learn some new functions in java.
 Code Link: https://github.com/Hardik121020/Java-Code/blob/master/split.java
+
+### *Day 69:* September 24, 2020
+*Today's Progress:* Implemented "Guess The Number" game in python.
+code link : https://github.com/Hardik121020/Pyhton-Code/blob/master/guess.py
