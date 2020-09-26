@@ -274,3 +274,6 @@ code link : https://github.com/Hardik121020/Pyhton-Code/blob/master/guess.py
 ### *Day 70:* September 25, 2020
 *Today's Progress:* Learn about collections lib in python.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/company_logo.py
+
+### *Day 71:* September 26, 2020
+*Today's Progress:* Learning about some new functions is JavaScript.
