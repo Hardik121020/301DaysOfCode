@@ -277,3 +277,6 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/company_logo.
 
 ### *Day 71:* September 26, 2020
 *Today's Progress:* Learning about some new functions is JavaScript.
+
+### *Day 72:* September 27, 2020
+*Today's Progress:* Studing about cryptography. 
