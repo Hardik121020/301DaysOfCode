@@ -280,3 +280,8 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/company_logo.
 
 ### *Day 72:* September 27, 2020
 *Today's Progress:* Studing about cryptography. 
+
+
+### *Day 73:* September 28, 2020
+*Today's Progress:* Pratcing front-end development.
+Code Link: https://github.com/Hardik121020/HTML/tree/master/Project8
