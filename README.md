@@ -285,3 +285,6 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/company_logo.
 ### *Day 73:* September 28, 2020
 *Today's Progress:* Pratcing front-end development.
 Code Link: https://github.com/Hardik121020/HTML/tree/master/Project8
+
+### *Day 74:* September 29, 2020
+*Today's Progress:* Studing about Autokey cipher.
