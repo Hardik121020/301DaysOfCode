@@ -288,3 +288,6 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/Project8
 
 ### *Day 74:* September 29, 2020
 *Today's Progress:* Studying about Autokey cipher.
+
+### *Day 75:* September 30, 2020
+*Today's Progress:* Practicing HTML and CSS. 
