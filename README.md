@@ -291,3 +291,6 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/Project8
 
 ### *Day 75:* September 30, 2020
 *Today's Progress:* Practicing HTML and CSS. 
+
+### *Day 76:* October 1,2020
+*Today's Progress:* Learing about line clipping in opengl.
