@@ -294,3 +294,6 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/Project8
 
 ### *Day 76:* October 1,2020
 *Today's Progress:* Learing about line clipping in opengl.
+
+### *Day 77:* October 2,2020
+*Today's Progress:* Implement line clipping algorithm in opengl. 
