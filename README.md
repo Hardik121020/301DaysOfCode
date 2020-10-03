@@ -297,3 +297,8 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/Project8
 
 ### *Day 77:* October 2,2020
 *Today's Progress:* Implement line clipping algorithm in opengl. 
+Code Link: https://github.com/Hardik121020/C-Programming/blob/master/lineCliping.c
+
+### *Day 78:* October 3,2020
+*Today's Progress:* Learn exceptional handling in python.
+Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Exception.py
