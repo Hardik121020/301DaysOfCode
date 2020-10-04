@@ -302,3 +302,7 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/lineCliping
 ### *Day 78:* October 3,2020
 *Today's Progress:* Learn exceptional handling in python.
 Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Exception.py
+
+### *Day 79:* October 4,2020
+*Today's Progress:* Practicing python on Hacker Rank.
+Link: https://www.hackerrank.com/Hardik_65
