@@ -306,3 +306,6 @@ Code Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/Exception.py
 ### *Day 79:* October 4,2020
 *Today's Progress:* Practicing python on Hacker Rank.
 Link: https://www.hackerrank.com/Hardik_65
+
+### *Day 80:* October 5,2020
+*Today's Progress:* studing about null cipher.
