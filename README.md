@@ -309,3 +309,7 @@ Link: https://www.hackerrank.com/Hardik_65
 
 ### *Day 80:* October 5,2020
 *Today's Progress:* studing about null cipher.
+
+
+### *Day 81:* October 6,2020
+*Today's Progress:* Studied Complier Design.
