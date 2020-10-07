@@ -313,3 +313,6 @@ Link: https://www.hackerrank.com/Hardik_65
 
 ### *Day 81:* October 6,2020
 *Today's Progress:* Studied Complier Design.
+
+### *Day 82:* October 7,2020
+*Today's Progress:* Studied Information Security Governance. 
