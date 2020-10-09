@@ -317,5 +317,8 @@ Link: https://www.hackerrank.com/Hardik_65
 ### *Day 82:* October 7,2020
 *Today's Progress:* Studied Information Security Governance. 
 
-### *Day 82:* October 7,2020
+### *Day 82:* October 8,2020
 *Today's Progress:* Studied Python. 
+
+### *Day 82:* October 8,2020
+*Today's Progress:* Studied Computer Graphics.
