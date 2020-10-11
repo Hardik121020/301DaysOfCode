@@ -317,8 +317,15 @@ Link: https://www.hackerrank.com/Hardik_65
 ### *Day 82:* October 7,2020
 *Today's Progress:* Studied Information Security Governance. 
 
-### *Day 82:* October 8,2020
+### *Day 83:* October 8,2020
 *Today's Progress:* Studied Python. 
 
-### *Day 82:* October 8,2020
+### *Day 84:* October 9,2020
 *Today's Progress:* Studied Computer Graphics.
+
+### *Day 85:* October 10,2020
+*Today's Progress:* Studied about bash scripting language.
+
+### *Day 86:* October 11,2020
+*Today's Progress:* Studies and Practice HTML/CSS/JS.
+Code Link: https://github.com/Hardik121020/HTML/tree/master/TalentServe(Assignment-1)%20(Hardik%20Bansal)
