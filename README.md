@@ -329,3 +329,6 @@ Link: https://www.hackerrank.com/Hardik_65
 ### *Day 86:* October 11,2020
 *Today's Progress:* Studies and Practice HTML/CSS/JS.
 Code Link: https://github.com/Hardik121020/HTML/tree/master/TalentServe(Assignment-1)%20(Hardik%20Bansal)
+
+### *Day 87:* October 12,2020
+*Today's Progress:* Studied Object Oriented design and analysis.
