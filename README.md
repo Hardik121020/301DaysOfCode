@@ -332,3 +332,5 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/TalentServe(Assignme
 
 ### *Day 87:* October 12,2020
 *Today's Progress:* Studied Object Oriented design and analysis.
+### *Day 88:* October 13,2020
+*Today's Progress:* Study about hashing algorithm.
