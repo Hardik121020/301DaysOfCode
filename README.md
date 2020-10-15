@@ -334,6 +334,10 @@ Code Link: https://github.com/Hardik121020/HTML/tree/master/TalentServe(Assignme
 *Today's Progress:* Studied Object Oriented design and analysis.
 ### *Day 88:* October 13,2020
 *Today's Progress:* Study about hashing algorithm.
+
 ### *Day 89:* October 14,2020
 *Today's Progress:* Done a combined project on HTML/CSS/JS with a friend.
 Website Link: https://shivansh052k.github.io/Assam_Hackathon/Main/index.html
+
+### *Day 90:* October 15,2020
+*Today's Progress:*
