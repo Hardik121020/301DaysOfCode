@@ -342,3 +342,7 @@ Website Link: https://shivansh052k.github.io/Assam_Hackathon/Main/index.html
 ### *Day 90:* October 15,2020
 *Today's Progress:* Praticied Java programming.
 Code Link:https://github.com/Hardik121020/Java-Code/tree/master
+
+### *Day 91:* October 16, 2020
+*Today's Progress:* Proticied Python Programming.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
