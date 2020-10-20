@@ -358,4 +358,4 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 *Today's Progress:* Study about different digial forensic tools.
 
 ### *Day 95:* October 20, 2020
-*Today's Progress:*
+*Today's Progress:* Studing file handling in Python. 
