@@ -350,3 +350,12 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 ### *Day 92:* October 17, 2020
 *Today's Progress:* Proticied Python Programming on Hacker Rank .
 Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
+
+### *Day 93:* October 18, 2020
+*Today's Progress:* Study Information Security Governance.
+
+### *Day 94:* October 19, 2020
+*Today's Progress:* Study about different digial forensic tools.
+
+### *Day 95:* October 20, 2020
+*Today's Progress:*
