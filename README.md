@@ -359,3 +359,15 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 95:* October 20, 2020
 *Today's Progress:* Studing file handling in Python. 
+
+### *Day 96:* October 21, 2020
+*Today's Progress:* Proticied Python Programming.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
+
+### *Day 97:* October 22, 2020
+*Today's Progress:* Proticied Python Programming.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
+
+### *Day 98:* October 23, 2020
+*Today's Progress:* Proticied Python Programming.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
