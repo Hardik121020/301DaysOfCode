@@ -371,3 +371,9 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 ### *Day 98:* October 23, 2020
 *Today's Progress:* Proticied Python Programming.
 Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
+
+### *Day 99:* October 24, 2020
+*Today's Progress:* Practiced some C Programming. 
+
+### *Day 100:* October 25, 2020
+*Today's Progress:* Study and Implement line Cliping algorithm. 
