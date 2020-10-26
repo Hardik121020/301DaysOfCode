@@ -374,6 +374,12 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 99:* October 24, 2020
 *Today's Progress:* Practiced some C Programming. 
+Link: https://github.com/Hardik121020/C-Programming/tree/master
 
 ### *Day 100:* October 25, 2020
 *Today's Progress:* Study and Implement line Cliping algorithm. 
+Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/line_clipping.c
+
+### *Day 101:* October 26, 2020
+*Today's Progress:* Study and Implement boundary fill algorithm .
+Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/boundery_fill.c
