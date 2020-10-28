@@ -383,3 +383,7 @@ Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graph
 ### *Day 101:* October 26, 2020
 *Today's Progress:* Study and Implement boundary fill algorithm .
 Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/boundery_fill.c
+
+### *Day 102:* October 27, 2020
+*Today's Progress:* Study and Implement Ploygon Clipping.
+Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Polygon_Clipping.c
