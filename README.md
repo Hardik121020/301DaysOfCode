@@ -387,3 +387,6 @@ Link: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graph
 ### *Day 102:* October 27, 2020
 *Today's Progress:* Study and Implement Ploygon Clipping.
 Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Polygon_Clipping.c
+
+### *Day 103:* October 28, 2020
+*Today's Progress:* Practicing C programming.
