@@ -390,3 +390,6 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Polygon_Cli
 
 ### *Day 103:* October 28, 2020
 *Today's Progress:* Practicing C programming.
+
+### *Day 104:* October 29, 2020
+*Today's Progress:* Studing about flood fill algorithm.
