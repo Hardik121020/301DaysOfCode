@@ -393,3 +393,6 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Polygon_Cli
 
 ### *Day 104:* October 29, 2020
 *Today's Progress:* Studing about flood fill algorithm.
+
+### *Day 105:* October 30, 2020
+*Today's Progress:* Studing about different type of ciphers.
