@@ -396,3 +396,7 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Polygon_Cli
 
 ### *Day 105:* October 30, 2020
 *Today's Progress:* Studing about different type of ciphers.
+
+
+### *Day 106:* October 31, 2020
+*Today's Progress:* Learning about oops concept in Python.
