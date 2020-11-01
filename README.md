@@ -400,3 +400,7 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Polygon_Cli
 
 ### *Day 106:* October 31, 2020
 *Today's Progress:* Learning about oops concept in Python.
+
+### *Day 107:* November 1, 2020
+*Today's Progress:* Implemented Flood_fill algorithm.
+Link: https://github.com/Hardik121020/C-Programming/blob/master/flood_fill.c
