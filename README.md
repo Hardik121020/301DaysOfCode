@@ -404,3 +404,6 @@ Code Link: https://github.com/Hardik121020/C-Programming/blob/master/Polygon_Cli
 ### *Day 107:* November 1, 2020
 *Today's Progress:* Implemented Flood_fill algorithm.
 Link: https://github.com/Hardik121020/C-Programming/blob/master/flood_fill.c
+
+### *Day 108:* November 2, 2020
+*Today's Progress:* Learn about 2D transformation in OpenGl. 
