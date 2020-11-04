@@ -411,3 +411,8 @@ Link: https://github.com/Hardik121020/C-Programming/blob/master/flood_fill.c
 
 ### *Day 109:* November 3, 2020
 *Today's Progress:* Learn about 3D transformation in openGl.
+
+
+### *Day 110:* November 4, 2020
+*Today's Progress:* Praticing some python Programming.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
