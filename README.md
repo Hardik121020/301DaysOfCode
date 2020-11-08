@@ -429,3 +429,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master/File%20Handling
 ### *Day 113:* November 7, 2020
 *Today's Progress:* Practicing file handling in python.
 Link: https://github.com/Hardik121020/Pyhton-Code/tree
+
+### *Day 114:* November 8, 2020
+*Today's Progress:* Reviced Data Structures.
