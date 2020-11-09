@@ -432,3 +432,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 114:* November 8, 2020
 *Today's Progress:* Reviced Data Structures.
+
+### *Day 115:* November 9, 2020
+*Today's Progress:* Reviced Data Structures.
