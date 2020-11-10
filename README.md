@@ -437,5 +437,5 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 *Today's Progress:* Reviced Data Structures.
 
 ### *Day 116:* November 10, 2020
-*Today's Progress:* Practicing file handling in python.
+*Today's Progress:* Reviced python.
 Link: https://github.com/Hardik121020/Pyhton-Code/tree
