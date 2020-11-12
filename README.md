@@ -442,3 +442,7 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 117:* November 11, 2020
 *Today's Progress:* Studing Data Streams in Python.
+
+### *Day 118:* November 12, 2020
+*Today's Progress:* Reviced python.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree
