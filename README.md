@@ -452,3 +452,9 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 120:* November 14, 2020
 *Today's Progress:* Revising HTML/CSS/JS.
+
+### *Day 121:* November 15, 2020
+*Today's Progress:* Revising Data Structure. 
+
+### *Day 122:* November 16, 2020
+*Today's Progress:* Learning about 3D shapes in opengl. 
