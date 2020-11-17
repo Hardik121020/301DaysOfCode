@@ -458,3 +458,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 122:* November 16, 2020
 *Today's Progress:* Learning about 3D shapes in opengl. 
+
+### *Day 123:* November 17, 2020
+*Today's Progress:* Learning about data structures.
