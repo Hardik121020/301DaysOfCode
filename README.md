@@ -461,3 +461,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 123:* November 17, 2020
 *Today's Progress:* Learning about data structures.
+
+### *Day 124:* November 18, 2020
+*Today's Progress:* Learning about data structures.
