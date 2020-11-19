@@ -464,3 +464,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 124:* November 18, 2020
 *Today's Progress:* Learning about data structures.
+
+### *Day 125:* November 19, 2020
+*Today's Progress:* Learning about OOPs in Python.
