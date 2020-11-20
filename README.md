@@ -467,3 +467,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 125:* November 19, 2020
 *Today's Progress:* Learning about OOPs in Python.
+
+### *Day 126:* November 20, 2020
+*Today's Progress:* Learning Complier Design.
