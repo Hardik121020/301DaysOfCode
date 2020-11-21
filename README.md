@@ -470,3 +470,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 
 ### *Day 126:* November 20, 2020
 *Today's Progress:* Learning Complier Design.
+
+### *Day 127:* November 21, 2020
+*Today's Progress:* Learning Complier Design.
