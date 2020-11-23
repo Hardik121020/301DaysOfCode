@@ -477,3 +477,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree
 ### *Day 128:* November 22, 2020
 *Today's Progress:* Learn and make a 3D cube using openGL.
 LInk: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graphics/cube.c
+
+### *Day 129:* November 23, 2020
+*Today's Progress:* Learning Complier Design.
