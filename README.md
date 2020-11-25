@@ -483,3 +483,6 @@ LInk: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graph
 
 ### *Day 130:* November 24, 2020
 *Today's Progress:* Learning OOAD.
+
+### *Day 130:* November 25, 2020
+*Today's Progress:* Learning Complier Design.
