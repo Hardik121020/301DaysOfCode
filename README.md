@@ -490,3 +490,7 @@ LInk: https://github.com/Hardik121020/C-Programming/blob/master/Computer%20Graph
 ### *Day 131:* November 26, 2020
 *Today's Progress:* Learning OOPS in Python.
 Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
+
+### *Day 132:* November 27, 2020
+*Today's Progress:* Learning OOPS in Python.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
