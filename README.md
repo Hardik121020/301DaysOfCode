@@ -498,3 +498,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 ### *Day 133:* November 28, 2020
 *Today's Progress:* Learning OOPS in Python.
 Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
+
+### *Day 134:* November 29, 2020
+*Today's Progress:* Learning Computer Graphics.
