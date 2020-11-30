@@ -501,3 +501,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 134:* November 29, 2020
 *Today's Progress:* Learning Computer Graphics.
+
+### *Day 135:* November 30, 2020
+*Today's Progress:* Learning Complier Design.
