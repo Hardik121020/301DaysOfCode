@@ -517,3 +517,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 ### *Day 139:* December 4, 2020
 *Today's Progress:* Make a GUI Calculater using Python.
 Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/tkinker.py
+
+### *Day 140:* December 5, 2020
+*Today's Progress:* Learning about react.js.
