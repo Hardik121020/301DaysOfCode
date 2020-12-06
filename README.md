@@ -520,3 +520,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/tkinker.py
 
 ### *Day 140:* December 5, 2020
 *Today's Progress:* Learning about react.js.
+
+### *Day 141:* December 6, 2020
+*Today's Progress:* Learning about complier design.
