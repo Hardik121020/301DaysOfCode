@@ -523,3 +523,7 @@ Link: https://github.com/Hardik121020/Pyhton-Code/blob/master/tkinker.py
 
 ### *Day 141:* December 6, 2020
 *Today's Progress:* Learning about complier design.
+
+### *Day 141:* December 6, 2020
+*Today's Progress:* Pratice some python programming.
+Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
