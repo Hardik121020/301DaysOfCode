@@ -531,3 +531,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 143:* December 8, 2020
 *Today's Progress:* Learning about complier design and transposition cipher.
+
+### *Day 144:* December 9, 2020
+*Today's Progress:* Learning about complier design and OOAD.
