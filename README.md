@@ -534,3 +534,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 144:* December 9, 2020
 *Today's Progress:* Learning about complier design and OOAD.
+
+### *Day 145:* December 10, 2020
+*Today's Progress:* Learning about complier design.
