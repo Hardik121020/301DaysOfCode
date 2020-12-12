@@ -540,3 +540,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 146:* December 11, 2020
 *Today's Progress:* Learning about OOAD.
+
+### *Day 147:* December 12, 2020
+*Today's Progress:* Learning about OOAD.
