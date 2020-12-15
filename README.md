@@ -549,3 +549,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 149:* December 14, 2020
 *Today's Progress:* Complete course for ooad end-sem course.
+
+### *Day 150:* December 15, 2020
+*Today's Progress:* Leraning course about Computer Graphics..
