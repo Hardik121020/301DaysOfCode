@@ -555,3 +555,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 151:* December 16, 2020
 *Today's Progress:* Completing the course of computer Graphics.
+
+### *Day 152:* December 17, 2020
+*Today's Progress:* Learning about complier design.
