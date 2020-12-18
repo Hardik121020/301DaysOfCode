@@ -558,3 +558,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 152:* December 17, 2020
 *Today's Progress:* Learning about complier design.
+
+### *Day 153:* December 18, 2020
+*Today's Progress:* Completing the course about complier design.
