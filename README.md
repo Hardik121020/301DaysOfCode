@@ -569,7 +569,10 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 *Today's Progress:* Learning about Digital Forensics.
 
 ### *Day 156:* December 21, 2020
-*Today's Progress:* Completing the course about Digital Forensics.
+*Today's Progress:* Completing the course of Digital Forensics.
 
 ### *Day 157:* December 22, 2020
 *Today's Progress:* Learning about Information Security Governance.
+
+### *Day 158:* December 23, 2020
+*Today's Progress:* Completing the course of Information Security Governance.
