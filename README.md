@@ -576,3 +576,10 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 
 ### *Day 158:* December 23, 2020
 *Today's Progress:* Completing the course of Information Security Governance.
+
+
+### *Day 159:* December 24, 2020
+*Today's Progress:* Learning about react js.
+
+### *Day 160:* December 25, 2020
+*Today's Progress:* Learning more about react js.
