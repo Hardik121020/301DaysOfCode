@@ -591,3 +591,6 @@ Link: https://github.com/Hardik121020/Pyhton-Code/tree/master
 ### *Day 162:* December 27, 2020
 *Today's Progress:* Make a react app.
 Link: https://github.com/Hardik121020/React-JS/tree/main/About-Us
+
+### *Day 163:* December 28, 2020
+*Today's Progress:* Revised Python Syllabus.
