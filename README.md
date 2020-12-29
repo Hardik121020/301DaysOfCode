@@ -594,3 +594,6 @@ Link: https://github.com/Hardik121020/React-JS/tree/main/About-Us
 
 ### *Day 163:* December 28, 2020
 *Today's Progress:* Revised Python Syllabus.
+
+### *Day 164:* December 29, 2020
+*Today's Progress:* Completing the course of programming with python.
