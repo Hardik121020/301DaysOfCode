@@ -599,4 +599,8 @@ Link: https://github.com/Hardik121020/React-JS/tree/main/About-Us
 *Today's Progress:* Completing the course of programming with python.
 
 ### *Day 165:* December 30, 2020
-*Today's Progress:* Learn some new concept n react is.
+*Today's Progress:* Learn some new concept in react js.
+
+
+### *Day 166:* December 31, 2020
+*Today's Progress:* Learn some new concept in react js.
