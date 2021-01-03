@@ -610,3 +610,6 @@ Link: https://github.com/Hardik121020/React-JS/tree/main/About-Us
 
 ### *Day 168:* January 2, 2021
 *Today's Progress:* Learnn new concept in python.
+
+### *Day 169:* January 3, 2021
+*Today's Progress:* Learnn new concept in python
