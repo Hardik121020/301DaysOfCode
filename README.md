@@ -612,4 +612,8 @@ Link: https://github.com/Hardik121020/React-JS/tree/main/About-Us
 *Today's Progress:* Learnn new concept in python.
 
 ### *Day 169:* January 3, 2021
-*Today's Progress:* Learnn new concept in python
+*Today's Progress:* Learn new concept in python
+
+### *Day 170:* January 4, 2021
+*Today's Progress:* Learn some new concept in react js.
+Link: https://github.com/Hardik121020/React-JS/tree/main/Courses
