@@ -621,3 +621,7 @@ Link: https://github.com/Hardik121020/React-JS/tree/main/Courses
 
 ### *Day 171:* January 5, 2021
 *Today's Progress:* Learn some new concept in react js.
+
+
+### *Day 172:* January 6, 2021
+*Today's Progress:* Learn some new concept in react js.
