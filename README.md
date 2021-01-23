@@ -700,3 +700,7 @@ Link: https://github.com/Hardik121020/React-JS
 ### *Day 185:* January 22, 2021
 *Today's Progress:* Learn some new concept in react js.
 Link: https://github.com/Hardik121020/React-JS
+
+### *Day 186:* January 23, 2021
+*Today's Progress:* Learn some new concept in react js.
+Link: https://github.com/Hardik121020/React-JS
